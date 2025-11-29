@@ -12,11 +12,11 @@
 
   <!-- GitHub Stats Badges with new color palette -->
   <p>
-    <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/XdKing2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/XdKing2/star-xd?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/XdKing2/star-xd?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/XdKing2/star-xd?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/forks/HAMZA-458/KING-898?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/HAMZA-458?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/HAMZA-458/KING-898?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/HAMZA-458/star-xd?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/HAMZA-458/star-xd?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
 
   <!-- Hero GIF with updated border & hover effect -->
@@ -28,7 +28,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+STAR+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+STAR-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+KING+898+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+ HAMZA-458;🚀+HAMZA-898+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
 
 
@@ -36,8 +36,8 @@
 
 _Click the button below to fork STAR XD repository to your GitHub account_
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;STAR+XD+REPO+On+Github)](https://git.io/typing-svg)
-<a href="https://github.com/XdKing2/star-xd/fork">
-  <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork sᴛᴀʀ xᴅ" />
+<a href="https://github.com/HAMZA-458/star-xd/fork">
+  <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork HAMZA-458" />
 </a>
 
 > 2. ɢᴇᴛ ᴘᴀɪʀ sᴇssɪᴏɴ_ɪᴅ
@@ -64,9 +64,9 @@ _Click the button below to fork STAR XD repository to your GitHub account_
 
 <p style="text-align: center; font-size: 1.2em;">  
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd'target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/HAMZA-458/star-xd'target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-> .💫 sᴛᴀʀ xᴅ supports deployment on all panels & heroku platform i.e,
+> .💫 KING 458 supports deployment on all panels & heroku platform i.e,
 - 1.  [Heroku](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd)
 - 2.  [Katabump](https://dashboard.katabump.com/auth/login#203630)
 - 3.  [Bothosting](https://bot-hosting.net/?aff=1097457675723341836)
